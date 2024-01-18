@@ -16,3 +16,4 @@ C:\Users\pavelkez\Desktop\lesson1\lesson1\obj\Debug\net8.0\refint\lesson1.dll
 C:\Users\pavelkez\Desktop\lesson1\lesson1\obj\Debug\net8.0\lesson1.pdb
 C:\Users\pavelkez\Desktop\lesson1\lesson1\obj\Debug\net8.0\lesson1.genruntimeconfig.cache
 C:\Users\pavelkez\Desktop\lesson1\lesson1\obj\Debug\net8.0\ref\lesson1.dll
+C:\Users\pavelkez\Desktop\lesson1\lesson1\obj\Debug\net8.0\lesson1.sourcelink.json

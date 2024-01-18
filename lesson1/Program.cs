@@ -18,8 +18,7 @@ namespace lesson1
             method1.Invoke(null, null);
             method2.Invoke(null, null);
 
-            context.Unload();
-            Console.WriteLine(":)");
+            context.Unload();      
         }
     }
 }

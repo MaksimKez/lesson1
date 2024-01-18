@@ -9,3 +9,4 @@ C:\Users\pavelkez\Desktop\lesson1\myLib\obj\Debug\net8.0\myLib.dll
 C:\Users\pavelkez\Desktop\lesson1\myLib\obj\Debug\net8.0\refint\myLib.dll
 C:\Users\pavelkez\Desktop\lesson1\myLib\obj\Debug\net8.0\myLib.pdb
 C:\Users\pavelkez\Desktop\lesson1\myLib\obj\Debug\net8.0\ref\myLib.dll
+C:\Users\pavelkez\Desktop\lesson1\myLib\obj\Debug\net8.0\myLib.sourcelink.json
